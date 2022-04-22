@@ -1,0 +1,16 @@
+C:\projetos\CSharp\CSharpParte1\6-AtribuicaoDeVariaveis\bin\Debug\net5.0\6-AtribuicaoDeVariaveis.exe
+C:\projetos\CSharp\CSharpParte1\6-AtribuicaoDeVariaveis\bin\Debug\net5.0\6-AtribuicaoDeVariaveis.deps.json
+C:\projetos\CSharp\CSharpParte1\6-AtribuicaoDeVariaveis\bin\Debug\net5.0\6-AtribuicaoDeVariaveis.runtimeconfig.json
+C:\projetos\CSharp\CSharpParte1\6-AtribuicaoDeVariaveis\bin\Debug\net5.0\6-AtribuicaoDeVariaveis.runtimeconfig.dev.json
+C:\projetos\CSharp\CSharpParte1\6-AtribuicaoDeVariaveis\bin\Debug\net5.0\6-AtribuicaoDeVariaveis.dll
+C:\projetos\CSharp\CSharpParte1\6-AtribuicaoDeVariaveis\bin\Debug\net5.0\6-AtribuicaoDeVariaveis.pdb
+C:\projetos\CSharp\CSharpParte1\6-AtribuicaoDeVariaveis\obj\Debug\net5.0\6-AtribuicaoDeVariaveis.csproj.AssemblyReference.cache
+C:\projetos\CSharp\CSharpParte1\6-AtribuicaoDeVariaveis\obj\Debug\net5.0\6-AtribuicaoDeVariaveis.GeneratedMSBuildEditorConfig.editorconfig
+C:\projetos\CSharp\CSharpParte1\6-AtribuicaoDeVariaveis\obj\Debug\net5.0\6-AtribuicaoDeVariaveis.AssemblyInfoInputs.cache
+C:\projetos\CSharp\CSharpParte1\6-AtribuicaoDeVariaveis\obj\Debug\net5.0\6-AtribuicaoDeVariaveis.AssemblyInfo.cs
+C:\projetos\CSharp\CSharpParte1\6-AtribuicaoDeVariaveis\obj\Debug\net5.0\6-AtribuicaoDeVariaveis.csproj.CoreCompileInputs.cache
+C:\projetos\CSharp\CSharpParte1\6-AtribuicaoDeVariaveis\obj\Debug\net5.0\6-AtribuicaoDeVariaveis.dll
+C:\projetos\CSharp\CSharpParte1\6-AtribuicaoDeVariaveis\obj\Debug\net5.0\refint\6-AtribuicaoDeVariaveis.dll
+C:\projetos\CSharp\CSharpParte1\6-AtribuicaoDeVariaveis\obj\Debug\net5.0\6-AtribuicaoDeVariaveis.pdb
+C:\projetos\CSharp\CSharpParte1\6-AtribuicaoDeVariaveis\obj\Debug\net5.0\6-AtribuicaoDeVariaveis.genruntimeconfig.cache
+C:\projetos\CSharp\CSharpParte1\6-AtribuicaoDeVariaveis\obj\Debug\net5.0\ref\6-AtribuicaoDeVariaveis.dll

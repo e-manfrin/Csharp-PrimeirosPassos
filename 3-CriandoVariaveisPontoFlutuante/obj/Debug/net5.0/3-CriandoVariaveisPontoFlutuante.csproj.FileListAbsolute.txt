@@ -1,0 +1,16 @@
+C:\projetos\CSharp\CSharpParte1\3-CriandoVariaveisPontoFlutuante\bin\Debug\net5.0\3-CriandoVariaveisPontoFlutuante.exe
+C:\projetos\CSharp\CSharpParte1\3-CriandoVariaveisPontoFlutuante\bin\Debug\net5.0\3-CriandoVariaveisPontoFlutuante.deps.json
+C:\projetos\CSharp\CSharpParte1\3-CriandoVariaveisPontoFlutuante\bin\Debug\net5.0\3-CriandoVariaveisPontoFlutuante.runtimeconfig.json
+C:\projetos\CSharp\CSharpParte1\3-CriandoVariaveisPontoFlutuante\bin\Debug\net5.0\3-CriandoVariaveisPontoFlutuante.runtimeconfig.dev.json
+C:\projetos\CSharp\CSharpParte1\3-CriandoVariaveisPontoFlutuante\bin\Debug\net5.0\3-CriandoVariaveisPontoFlutuante.dll
+C:\projetos\CSharp\CSharpParte1\3-CriandoVariaveisPontoFlutuante\bin\Debug\net5.0\3-CriandoVariaveisPontoFlutuante.pdb
+C:\projetos\CSharp\CSharpParte1\3-CriandoVariaveisPontoFlutuante\obj\Debug\net5.0\3-CriandoVariaveisPontoFlutuante.csproj.AssemblyReference.cache
+C:\projetos\CSharp\CSharpParte1\3-CriandoVariaveisPontoFlutuante\obj\Debug\net5.0\3-CriandoVariaveisPontoFlutuante.GeneratedMSBuildEditorConfig.editorconfig
+C:\projetos\CSharp\CSharpParte1\3-CriandoVariaveisPontoFlutuante\obj\Debug\net5.0\3-CriandoVariaveisPontoFlutuante.AssemblyInfoInputs.cache
+C:\projetos\CSharp\CSharpParte1\3-CriandoVariaveisPontoFlutuante\obj\Debug\net5.0\3-CriandoVariaveisPontoFlutuante.AssemblyInfo.cs
+C:\projetos\CSharp\CSharpParte1\3-CriandoVariaveisPontoFlutuante\obj\Debug\net5.0\3-CriandoVariaveisPontoFlutuante.csproj.CoreCompileInputs.cache
+C:\projetos\CSharp\CSharpParte1\3-CriandoVariaveisPontoFlutuante\obj\Debug\net5.0\3-CriandoVariaveisPontoFlutuante.dll
+C:\projetos\CSharp\CSharpParte1\3-CriandoVariaveisPontoFlutuante\obj\Debug\net5.0\refint\3-CriandoVariaveisPontoFlutuante.dll
+C:\projetos\CSharp\CSharpParte1\3-CriandoVariaveisPontoFlutuante\obj\Debug\net5.0\3-CriandoVariaveisPontoFlutuante.pdb
+C:\projetos\CSharp\CSharpParte1\3-CriandoVariaveisPontoFlutuante\obj\Debug\net5.0\3-CriandoVariaveisPontoFlutuante.genruntimeconfig.cache
+C:\projetos\CSharp\CSharpParte1\3-CriandoVariaveisPontoFlutuante\obj\Debug\net5.0\ref\3-CriandoVariaveisPontoFlutuante.dll

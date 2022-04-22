@@ -1,0 +1,16 @@
+C:\projetos\CSharp\CSharpParte1\P13-ForEncadeado\bin\Debug\net5.0\P13-ForEncadeado.exe
+C:\projetos\CSharp\CSharpParte1\P13-ForEncadeado\bin\Debug\net5.0\P13-ForEncadeado.deps.json
+C:\projetos\CSharp\CSharpParte1\P13-ForEncadeado\bin\Debug\net5.0\P13-ForEncadeado.runtimeconfig.json
+C:\projetos\CSharp\CSharpParte1\P13-ForEncadeado\bin\Debug\net5.0\P13-ForEncadeado.runtimeconfig.dev.json
+C:\projetos\CSharp\CSharpParte1\P13-ForEncadeado\bin\Debug\net5.0\P13-ForEncadeado.dll
+C:\projetos\CSharp\CSharpParte1\P13-ForEncadeado\bin\Debug\net5.0\P13-ForEncadeado.pdb
+C:\projetos\CSharp\CSharpParte1\P13-ForEncadeado\obj\Debug\net5.0\P13-ForEncadeado.csproj.AssemblyReference.cache
+C:\projetos\CSharp\CSharpParte1\P13-ForEncadeado\obj\Debug\net5.0\P13-ForEncadeado.GeneratedMSBuildEditorConfig.editorconfig
+C:\projetos\CSharp\CSharpParte1\P13-ForEncadeado\obj\Debug\net5.0\P13-ForEncadeado.AssemblyInfoInputs.cache
+C:\projetos\CSharp\CSharpParte1\P13-ForEncadeado\obj\Debug\net5.0\P13-ForEncadeado.AssemblyInfo.cs
+C:\projetos\CSharp\CSharpParte1\P13-ForEncadeado\obj\Debug\net5.0\P13-ForEncadeado.csproj.CoreCompileInputs.cache
+C:\projetos\CSharp\CSharpParte1\P13-ForEncadeado\obj\Debug\net5.0\P13-ForEncadeado.dll
+C:\projetos\CSharp\CSharpParte1\P13-ForEncadeado\obj\Debug\net5.0\refint\P13-ForEncadeado.dll
+C:\projetos\CSharp\CSharpParte1\P13-ForEncadeado\obj\Debug\net5.0\P13-ForEncadeado.pdb
+C:\projetos\CSharp\CSharpParte1\P13-ForEncadeado\obj\Debug\net5.0\P13-ForEncadeado.genruntimeconfig.cache
+C:\projetos\CSharp\CSharpParte1\P13-ForEncadeado\obj\Debug\net5.0\ref\P13-ForEncadeado.dll

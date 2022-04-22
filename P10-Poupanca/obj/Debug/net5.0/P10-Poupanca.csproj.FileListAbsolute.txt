@@ -1,0 +1,16 @@
+C:\projetos\CSharp\CSharpParte1\P10-Poupanca\bin\Debug\net5.0\P10-Poupanca.exe
+C:\projetos\CSharp\CSharpParte1\P10-Poupanca\bin\Debug\net5.0\P10-Poupanca.deps.json
+C:\projetos\CSharp\CSharpParte1\P10-Poupanca\bin\Debug\net5.0\P10-Poupanca.runtimeconfig.json
+C:\projetos\CSharp\CSharpParte1\P10-Poupanca\bin\Debug\net5.0\P10-Poupanca.runtimeconfig.dev.json
+C:\projetos\CSharp\CSharpParte1\P10-Poupanca\bin\Debug\net5.0\P10-Poupanca.dll
+C:\projetos\CSharp\CSharpParte1\P10-Poupanca\bin\Debug\net5.0\P10-Poupanca.pdb
+C:\projetos\CSharp\CSharpParte1\P10-Poupanca\obj\Debug\net5.0\P10-Poupanca.csproj.AssemblyReference.cache
+C:\projetos\CSharp\CSharpParte1\P10-Poupanca\obj\Debug\net5.0\P10-Poupanca.GeneratedMSBuildEditorConfig.editorconfig
+C:\projetos\CSharp\CSharpParte1\P10-Poupanca\obj\Debug\net5.0\P10-Poupanca.AssemblyInfoInputs.cache
+C:\projetos\CSharp\CSharpParte1\P10-Poupanca\obj\Debug\net5.0\P10-Poupanca.AssemblyInfo.cs
+C:\projetos\CSharp\CSharpParte1\P10-Poupanca\obj\Debug\net5.0\P10-Poupanca.csproj.CoreCompileInputs.cache
+C:\projetos\CSharp\CSharpParte1\P10-Poupanca\obj\Debug\net5.0\P10-Poupanca.dll
+C:\projetos\CSharp\CSharpParte1\P10-Poupanca\obj\Debug\net5.0\refint\P10-Poupanca.dll
+C:\projetos\CSharp\CSharpParte1\P10-Poupanca\obj\Debug\net5.0\P10-Poupanca.pdb
+C:\projetos\CSharp\CSharpParte1\P10-Poupanca\obj\Debug\net5.0\P10-Poupanca.genruntimeconfig.cache
+C:\projetos\CSharp\CSharpParte1\P10-Poupanca\obj\Debug\net5.0\ref\P10-Poupanca.dll
